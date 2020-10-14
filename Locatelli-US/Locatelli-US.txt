@@ -1,0 +1,7 @@
+1)As an ecologist user, I want to find a recipe based on my ingredients, so I can avoid food waste.
+
+
+2)As a beginner cook, I want to watch a video that explains step by step the recipe based on my ingredients, so I can have help during the preparation of my course.
+
+
+3)As a healthy user, I want to know the calories of the recipe based on my ingredients, so I can have a healthy lifestyle.
