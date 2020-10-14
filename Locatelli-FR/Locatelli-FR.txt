@@ -1,0 +1,6 @@
+
+1)   The system shall provide a list of ingredients to choose from.
+
+2)   The system must provide a link to a video on the making of my recipe.
+
+3)   The system must provide the calories of the recipes.
