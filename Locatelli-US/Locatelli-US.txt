@@ -2,6 +2,6 @@
 
 2)As a beginner cook, I want to watch a video that explains step by step the chosen recipe, so I can have help during the preparation of my course.
 
-3)As a healthy user, I want to know the calories of the recipe based on my ingredients, so I can have a healthy lifestyle.
+3)As a healthy user, I want to know the calories of the chosen recipe, so I can have a healthy lifestyle.
 
 4)As an administrator, I want to add a recipe, so that there are more recipes to choose from. 
