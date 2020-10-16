@@ -3,4 +3,4 @@
 
 2)   The system must provide a link to a video on the making of my recipe.
 
-3)   The system must provide the calories of the recipes.
+3)   The system must provide the calculation of the calories of the recipes.
